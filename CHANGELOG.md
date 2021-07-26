@@ -1,5 +1,7 @@
 ## 1.4.0
 
+- `FINAL RELEASE`
+- `IMPORTANT`: Please migrate to the ([Leitmotif](https://github.com/litlifesoftware/leitmotif-flutter)) package for future releases.
 - Replace the `child` member with a simple `title` member on `FixedOnScrollAppbar`.
 - Add a `gradientColors` member on `LitFooter` to customize its background gradient.
 - Add a `contrastColor` member on `LitUserIcon` to customize its background gradient.

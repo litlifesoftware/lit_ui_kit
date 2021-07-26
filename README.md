@@ -1,5 +1,11 @@
 # ![LitUIKit](assets/images/LitUIKit_Banner_2021.jpg "Lit UI Kit")
 
+:warning: | `lit_ui_kit` has been discontinued by its creator. Please migrate to its new successor [Leitmotif]([Leitmotif](https://github.com/litlifesoftware/leitmotif-flutter)), due to the `lit_ui_kit` package not being maintained any longer. New features and updates are only available for [Leitmotif](https://github.com/litlifesoftware/leitmotif-flutter). We are sorry for any inconvenience.
+| -- | -- |
+
+`DISCLAIMER` | We are not affiliated, associated, authorized, endorsed by, or in any way officially connected with the *lit-html* project, or any of its subsidiaries or its affiliates. The official *lit-html* website can be found at https://lit.dev/. Any connections to the *lit-html* project are accidental.
+| -- | -- |
+
 LitUIKit is a collection of Flutter widgets to create unique user interfaces. It complements the default Material Widgets shipped with Flutter. Whose Widgets include custom implementation of Snackbars,
 AppBars and a settings panel. Utility Screens (e.g. required to verify the user's age and to show the
 application's licenses) are also included.
